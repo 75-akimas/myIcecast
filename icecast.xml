@@ -56,7 +56,7 @@ http://icecast.org/docs/icecast-2.4.1/config-file.html
         <!-- <relay-user>relay</relay-user> -->
         <relay-password>hackme</relay-password>
         <admin-user>mr.icecast.admin</admin-user>
-        <admin-password>password</admin-password>
+        <admin-password>hackme</admin-password>
     </authentication>
 
     <!-- TCP Port -->
@@ -73,9 +73,10 @@ http://icecast.org/docs/icecast-2.4.1/config-file.html
 
     <!-- Path -->
     <paths>
-        <logdir>{path-to-repository}/logs</logdir>
-        <webroot>{path-to-repository}/web</webroot>
-        <adminroot>{path-to-repository}/admin</adminroot>
+	<!-- <basedir>/home/bossofkiss/kiss-icecast</basedir> -->
+        <logdir>logs</logdir>
+        <webroot>web</webroot>
+        <adminroot>admin</adminroot>
         <!-- <ssl-certificate></ssl-certificate> -->
     </paths>
 
@@ -92,15 +93,4 @@ http://icecast.org/docs/icecast-2.4.1/config-file.html
     <security>
         <chroot>0</chroot>
     </security>
-
-    <!-- Mount -->
-    <mount type="default">
-	<charset>UTF-8</charset>
-        <!--
-        <authentication type="htpasswd">
-            <option name="filename" value="passwd"/>
-            <option name="allow_duplicate_users" value="1"/>
-        </authentication>
-        -->
-    </mount>
 </icecast>

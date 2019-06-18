@@ -6,9 +6,9 @@ set("server.timeout", -1.)
 
 playlists = ref []
 out = output.icecast(%mp3,
-                     host=localhost,
+                     host="localhost",
                      port=8000,
-                     password=hackme,
+                     password="hackme",
                      fallible=true,
                      encoding="UTF-8")
 # is skipped flag

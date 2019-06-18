@@ -1,0 +1,795 @@
+[2019-06-19  05:45:12] INFO main/main Icecast 2.4.3 server started
+[2019-06-19  05:45:12] INFO yp/yp_update_thread YP update thread started
+[2019-06-19  05:45:12] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2019-06-19  05:50:18] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2019-06-19  05:50:18] INFO main/main Shutting down
+[2019-06-19  05:50:18] INFO fserve/fserve_shutdown file serving stopped
+[2019-06-19  05:50:19] INFO slave/_slave_thread shutting down current relays
+[2019-06-19  05:50:19] INFO slave/_slave_thread Slave thread shutdown complete
+[2019-06-19  05:50:19] INFO auth/auth_shutdown Auth shutdown
+[2019-06-19  05:50:19] INFO yp/yp_shutdown YP thread down
+[2019-06-19  05:50:19] INFO stats/stats_shutdown stats thread finished
+[2019-06-19  05:50:20] INFO main/main Icecast 2.4.3 server started
+[2019-06-19  05:50:20] INFO yp/yp_update_thread YP update thread started
+[2019-06-19  05:50:20] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2019-06-19  05:55:08] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2019-06-19  05:55:08] INFO main/main Shutting down
+[2019-06-19  05:55:08] INFO fserve/fserve_shutdown file serving stopped
+[2019-06-19  05:55:08] INFO slave/_slave_thread shutting down current relays
+[2019-06-19  05:55:08] INFO slave/_slave_thread Slave thread shutdown complete
+[2019-06-19  05:55:08] INFO auth/auth_shutdown Auth shutdown
+[2019-06-19  05:55:08] INFO yp/yp_shutdown YP thread down
+[2019-06-19  05:55:09] INFO stats/stats_shutdown stats thread finished
+[2019-06-19  05:59:03] INFO main/main Icecast 2.4.3 server started
+[2019-06-19  05:59:03] INFO yp/yp_update_thread YP update thread started
+[2019-06-19  05:59:03] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2019-06-19  05:59:11] INFO connection/_handle_source_request Source logging in at mountpoint "/a0" from 127.0.0.1
+[2019-06-19  05:59:11] WARN format/format_get_type Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2019-06-19  05:59:11] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:11] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:11] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:11] INFO source/source_main listener count on /a0 now 0
+[2019-06-19  05:59:11] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:11] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:11] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:12] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:12] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:12] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:12] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:12] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:12] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:13] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:13] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:13] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:13] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:13] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:13] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:14] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:14] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:14] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:14] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:14] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:14] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:15] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:15] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:15] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:15] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:15] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:15] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:16] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:16] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:16] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:16] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:16] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:16] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:17] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:17] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:17] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:17] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:17] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:17] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:18] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:18] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:18] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:19] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:19] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:19] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:19] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:19] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:19] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:20] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:20] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:20] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:20] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:20] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:20] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:21] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:21] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:21] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:21] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:21] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:21] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:22] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:22] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:22] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:22] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:22] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:22] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:22] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:22] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:22] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:23] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:23] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:23] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:23] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:23] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:23] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:24] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:24] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:24] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:24] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:24] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:24] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:25] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:25] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:25] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:25] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:25] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:25] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:26] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:26] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:26] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:26] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:26] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:26] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:27] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:27] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:27] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:27] INFO fserve/fserve_client_create checking for file /A0 (web/A0)
+[2019-06-19  05:59:27] WARN fserve/fserve_client_create req for file "web/A0" No such file or directory
+[2019-06-19  05:59:27] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:27] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:27] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:28] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:28] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:28] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:28] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:28] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:28] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:29] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:29] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:29] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:30] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:30] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:30] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:30] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:30] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:30] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:31] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:31] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:31] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:31] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:31] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:31] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:32] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:32] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:32] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:32] INFO source/source_main listener count on /a0 now 1
+[2019-06-19  05:59:32] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:32] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:32] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:32] INFO source/source_main listener count on /a0 now 2
+[2019-06-19  05:59:32] INFO source/source_main listener count on /a0 now 1
+[2019-06-19  05:59:33] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:33] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:33] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:33] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:33] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:33] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:33] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:33] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:33] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:34] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:34] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:34] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:34] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:34] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:34] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:35] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:35] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:35] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:35] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:35] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:35] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:36] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:36] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:36] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:36] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:36] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:36] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:37] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:37] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:37] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:37] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:37] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:37] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:38] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:38] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:38] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:38] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:38] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:38] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:39] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:39] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:39] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:39] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:39] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:39] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:40] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:40] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:40] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:41] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:41] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:41] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:41] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:41] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:41] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:42] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:42] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:42] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:42] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:42] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:42] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:43] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:43] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:43] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:43] INFO source/source_main listener count on /a0 now 0
+[2019-06-19  05:59:43] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:43] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:43] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:44] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:44] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:44] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:44] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:44] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:44] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:44] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:44] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:44] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:45] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:45] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:45] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:45] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:45] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:45] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:46] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:46] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:46] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:46] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:46] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:46] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:47] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:47] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:47] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:47] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:47] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:47] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:48] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:48] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:48] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:48] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:48] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:48] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:49] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:49] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:49] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:49] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:49] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:49] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:50] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:50] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:50] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:50] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:50] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:50] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:51] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:51] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:51] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:52] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:52] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:52] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:52] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:52] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:52] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:53] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:53] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:53] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:53] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:53] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:53] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:54] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:54] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:54] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:54] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:54] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:54] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:55] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:55] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:55] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:55] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:55] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:55] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:55] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:55] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:55] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:56] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:56] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:56] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:56] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:56] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:56] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:57] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:57] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:57] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:57] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:57] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:57] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:58] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:58] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:58] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:58] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:58] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:58] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:59] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:59] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:59] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  05:59:59] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  05:59:59] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  05:59:59] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:00] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:00] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:00] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:00] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:00] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:00] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:01] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:01] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:01] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:01] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:01] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:01] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:02] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:02] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:02] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:03] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:03] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:03] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:03] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:03] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:03] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:04] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:04] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:04] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:04] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:04] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:04] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:05] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:05] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:05] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:05] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:05] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:05] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:06] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:06] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:06] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:06] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:06] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:06] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:06] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:06] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:06] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:07] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:07] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:07] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:07] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:07] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:07] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:08] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:08] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:08] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:08] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:08] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:08] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:09] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:09] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:09] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:09] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:09] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:09] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:10] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:10] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:10] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:10] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:10] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:10] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:11] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:11] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:11] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:11] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:11] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:11] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:12] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:12] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:12] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:12] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:12] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:12] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:13] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:13] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:13] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:14] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:14] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:14] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:14] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:14] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:14] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:15] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:15] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:15] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:15] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:15] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:15] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:16] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:16] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:16] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:16] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:16] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:16] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:17] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:17] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:17] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:17] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:17] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:17] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:17] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:17] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:17] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:18] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:18] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:18] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:18] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:18] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:18] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:19] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:19] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:19] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:19] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:19] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:19] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:20] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:20] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:20] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:20] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:20] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:20] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:21] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:21] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:21] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:21] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:21] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:21] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:22] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:22] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:22] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:22] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:22] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:22] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:23] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:23] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:23] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:23] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:23] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:23] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:24] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:24] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:24] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:25] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:25] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:25] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:25] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:25] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:25] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:26] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:26] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:26] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:26] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:26] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:26] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:27] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:27] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:27] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:27] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:27] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:27] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:28] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:28] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:28] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:28] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:28] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:28] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:28] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:28] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:28] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:29] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:29] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:29] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:29] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:29] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:29] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:30] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:30] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:30] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:30] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:30] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:30] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:31] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:31] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:31] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:31] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:31] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:31] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:32] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:32] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:32] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:32] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:32] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:32] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:33] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:33] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:33] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:33] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:33] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:33] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:34] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:34] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:34] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:34] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:34] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:34] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:35] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:35] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:35] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:36] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:36] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:36] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:36] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:36] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:36] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:37] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:37] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:37] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:37] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:37] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:37] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:38] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:38] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:38] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:38] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:38] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:38] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:39] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:39] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:39] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:39] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:39] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:39] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:39] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:39] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:39] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:40] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:40] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:40] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:40] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:40] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:40] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:41] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:41] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:41] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:41] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:41] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:41] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:42] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:42] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:42] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:42] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:42] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:42] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:43] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:43] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:43] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:43] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:43] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:43] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:44] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:44] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:44] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:44] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:44] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:44] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:45] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:45] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:45] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:45] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:45] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:45] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:46] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:46] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:46] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:47] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:47] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:47] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:47] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:47] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:47] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:48] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:48] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:48] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:48] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:48] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:48] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:49] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:49] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:49] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:49] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:49] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:49] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:50] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:50] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:50] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:50] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:50] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:50] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:50] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:50] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:50] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:51] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:51] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:51] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:51] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:51] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:51] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:52] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:52] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:52] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:52] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:52] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:52] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:53] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:53] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:53] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:53] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:53] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:53] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:54] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:54] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:54] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:54] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:54] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:54] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:55] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:55] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:55] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:55] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:55] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:55] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:56] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:56] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:56] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:56] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:56] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:56] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:57] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:57] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:57] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:58] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:58] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:58] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:58] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:58] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:58] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:59] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:59] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:59] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:00:59] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:00:59] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:00:59] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:00] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:00] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:00] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:00] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:00] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:00] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:01] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:01] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:01] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:01] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:01] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:01] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:01] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:01] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:01] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:02] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:02] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:02] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:02] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:02] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:02] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:03] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:03] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:03] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:03] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:03] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:03] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:04] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:04] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:04] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:04] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:04] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:04] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:05] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:05] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:05] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:05] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:05] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:05] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:06] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:06] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:06] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:06] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:06] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:06] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:07] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:07] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:07] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:07] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:07] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:07] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:08] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:08] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:08] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:09] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:09] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:09] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:09] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:09] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:09] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:10] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:10] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:10] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:10] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:10] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:10] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:11] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:11] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:11] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:11] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:11] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:11] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:12] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:12] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:12] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:12] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:12] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:12] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:12] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:12] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:12] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:13] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:13] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:13] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:13] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:13] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:13] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:14] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:14] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:14] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:14] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:14] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:14] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:15] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:15] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:15] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:15] INFO admin/admin_handle_request Received admin command metadata on mount "/a0"
+[2019-06-19  06:01:15] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2019-06-19  06:01:15] INFO admin/command_metadata Metadata on mountpoint /a0 changed to "www.xamuel.com - Silent MP3 Half Second"
+[2019-06-19  06:01:16] INFO source/get_next_buffer End of Stream /a0
+[2019-06-19  06:01:16] INFO source/source_shutdown Source from 127.0.0.1 at "/a0" exiting
+[2019-06-19  06:02:12] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2019-06-19  06:02:12] INFO main/main Shutting down
+[2019-06-19  06:02:12] INFO fserve/fserve_shutdown file serving stopped
+[2019-06-19  06:02:12] INFO slave/_slave_thread shutting down current relays
+[2019-06-19  06:02:12] INFO slave/_slave_thread Slave thread shutdown complete
+[2019-06-19  06:02:12] INFO auth/auth_shutdown Auth shutdown
+[2019-06-19  06:02:13] INFO yp/yp_shutdown YP thread down
+[2019-06-19  06:02:13] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2019-06-19  06:02:13] INFO stats/stats_shutdown stats thread finished
