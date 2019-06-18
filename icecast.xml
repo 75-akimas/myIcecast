@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!--
+icecast の設定で、各環境ごとに直す必要があるかもしれない箇所を以下に示す。
+・authentication => admin-user, authentication => admin-password
+管理画面へのログインユーザー名と管理画面へのログインパスワード
+
+・paths => basedir
+basedir は security => chroot を 1 に設定したときだけ有効になる。
+このとき paths の webroot や adminroot は basedir からの相対パスになる。
+logdir は別扱いで icecast を起動したカレントディレクトリからの相対パスになっているようだ。
+
+・paths => webroot, paths => adminroot, paths => logdir
+security => chroot が 0 のとき、以上のディレクティブは絶対パスで記述する。
+
+・security => changeowner
+icecast を立ち上げたときにユーザーやグループを指定したものに変更できる。
+
+・listen-socket => ssl
+SSL を有効にした環境ならば 1 に設定する必要がある
+
+・paths => ssl-certificate
+SSL を有効にした環境ならば ssl の certificate のフルパスを記述する必要がある。
+
+・relay
+この設定には書いていないが、relay を設定するのなら記述する必要がある
+
+・mount
+以上の設定でデフォルトのマウントポイントの振る舞いは記述されていることになる。
+特定のマウントポイントで特別な振る舞いをする必要があるのなら mount タグで記述する。
+
+詳しくは公式のドキュメントを読むこと。
+http://icecast.org/docs/icecast-2.4.1/config-file.html
+-->
+<icecast>
+    <!-- Misc Server -->
+    <hostname>localhost</hostname>
+    <location>Japan</location>
+    <admin>icemaster@localhost</admin>
+    <fileserve>1</fileserve>
+
+    <!-- Limits -->
+    <limits>
+        <clients>10000</clients>
+        <sources>10000</sources>
+        <queue-size>524288</queue-size>
+        <client-timeout>30</client-timeout>
+        <header-timeout>15</header-timeout>
+        <source-timeout>10</source-timeout>
+        <burst-size>65535</burst-size>
+    </limits>
+
+    <!-- Authentication -->
+    <authentication>
+        <!-- <source-user>source</source-user> -->
+        <source-password>hackme</source-password>
+        <!-- <relay-user>relay</relay-user> -->
+        <relay-password>hackme</relay-password>
+        <admin-user>mr.icecast.admin</admin-user>
+        <admin-password>password</admin-password>
+    </authentication>
+
+    <!-- TCP Port -->
+    <listen-socket>
+        <port>8000</port>
+    </listen-socket>
+
+
+
+    <!-- Global HTTP headers -->
+    <http-headers>
+        <header name="Access-Control-Allow-Origin" value="*"/>
+    </http-headers>
+
+    <!-- Path -->
+    <paths>
+        <logdir>{path-to-repository}/logs</logdir>
+        <webroot>{path-to-repository}/web</webroot>
+        <adminroot>{path-to-repository}/admin</adminroot>
+        <!-- <ssl-certificate></ssl-certificate> -->
+    </paths>
+
+    <!-- Logging -->
+    <logging>
+        <accesslog>access.log</accesslog>
+        <errorlog>error.log</errorlog>
+        <playlistlog>playlist.log</playlistlog>
+        <loglevel>3</loglevel>
+        <logsize>10000</logsize>
+    </logging>
+
+    <!-- Security -->
+    <security>
+        <chroot>0</chroot>
+    </security>
+
+    <!-- Mount -->
+    <mount type="default">
+	<charset>UTF-8</charset>
+        <!--
+        <authentication type="htpasswd">
+            <option name="filename" value="passwd"/>
+            <option name="allow_duplicate_users" value="1"/>
+        </authentication>
+        -->
+    </mount>
+</icecast>
