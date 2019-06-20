@@ -1,1 +1,1 @@
-# myIcecast
+Icecastとliquidsoapを使用した簡単な音楽ストリーミングサーバです。
